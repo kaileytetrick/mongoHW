@@ -1,0 +1,19 @@
+{
+  "name": "mongohw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaileytetrick/mongoHW.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaileytetrick/mongoHW/issues"
+  },
+  "homepage": "https://github.com/kaileytetrick/mongoHW#readme"
+}
